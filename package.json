@@ -26,8 +26,9 @@
     "uws": "^10.148.1"
   },
   "devDependencies": {
-    "jsdom": "~0.2.15",
-    "jslint": "~0.1.9"
+    "jsdom": "^6.5.1",
+    "jslint": "~0.1.9",
+    "node-strophe": "^2.0.0"
   },
   "repository": {
     "type": "git",

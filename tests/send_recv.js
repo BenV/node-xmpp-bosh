@@ -35,7 +35,7 @@ exports.users = [
 */
 
 
-var strophe = require("../strophe/strophe.js").Strophe;
+var strophe = require("node-strophe").Strophe;
 var dutil   = require("../src/dutil.js");
 var us      = require("underscore");
 

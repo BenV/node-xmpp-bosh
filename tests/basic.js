@@ -27,7 +27,7 @@
 var options = { };
 var conn = null;
 
-var strophe = require("../strophe/strophe.js").Strophe;
+var strophe = require("node-strophe").Strophe;
 var dutil   = require("../src/dutil.js");
 
 var Strophe = strophe.Strophe;
