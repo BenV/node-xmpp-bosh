@@ -26,7 +26,7 @@
 "use strict";
 
 var dutil	    = require('./dutil.js');
-var uuid	    = require('node-uuid');
+var uuid	    = require('uuid/v4');
 var helper	    = require('./helper.js');
 var us		    = require('underscore');
 var responsejs	= require('./response.js');
